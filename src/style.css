@@ -46,3 +46,11 @@ a {
   text-decoration: none;
   color: #0e79b2;
 }
+.footer-link {
+  color: white;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: white;
+  text-decoration: underline;
+}
